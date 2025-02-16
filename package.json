@@ -1,0 +1,21 @@
+{
+  "name": "aim-trainer",
+  "version": "1.0.0",
+  "description": "A simple aim trainer application built with Vue 3",
+  "main": "index.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "flowbite": "^3.1.2",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^4.5.19"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
